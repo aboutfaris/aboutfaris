@@ -26,7 +26,7 @@ Click "Details" Below For List Of Projects By Field.
 
 <h2> 💻 Coding Projects:</h2>
 
-- MVP: MDM Solution [Reach out] 
+- MVP: Full Stack Development MDM Solution [Reach out] 
 
 <details close>
 
