@@ -2,7 +2,7 @@
 
 - ☁ CL/CI/CD Lifestyle (Continuous Learning, Intergration, Delivery)
 
-- 🗃 I'm currently working on many certification(s).
+- 🗃 Building Resilient, Available, and Secure Infrastructure.
 
 - 🌍 Outside of work, school, and building projects, I am out in the world trying to make a difference.
 
