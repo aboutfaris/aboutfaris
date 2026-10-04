@@ -76,11 +76,11 @@ Each set below is a repo of follow-along guides. Click a set to expand it.
 <details>
 <summary><b>🎫 InfoTech Set</b></summary>
 
-[Help-Desk-Projects](https://github.com/aboutfaris/Help-Desk-Projects)
+[InfoTech-Projects](https://github.com/aboutfaris/InfoTech-Projects)
 
-- [osTicket: Prerequisites and Installation](https://github.com/aboutfaris/Help-Desk-Projects/tree/main/01-osticket-prerequisites-and-installation)
-- [osTicket: Post-Installation Configuration](https://github.com/aboutfaris/Help-Desk-Projects/tree/main/02-osticket-post-installation-configuration)
-- [osTicket: Ticket Lifecycle Examples](https://github.com/aboutfaris/Help-Desk-Projects/tree/main/03-osticket-ticket-lifecycle-examples)
+- [osTicket: Prerequisites and Installation](https://github.com/aboutfaris/InfoTech-Projects/tree/main/01-osticket-prerequisites-and-installation)
+- [osTicket: Post-Installation Configuration](https://github.com/aboutfaris/InfoTech-Projects/tree/main/02-osticket-post-installation-configuration)
+- [osTicket: Ticket Lifecycle Examples](https://github.com/aboutfaris/InfoTech-Projects/tree/main/03-osticket-ticket-lifecycle-examples)
 
 </details>
 
