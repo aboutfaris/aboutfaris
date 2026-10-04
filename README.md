@@ -83,15 +83,5 @@ Each set below is a repo of follow-along guides. Click a set to expand it.
 - [WhoIs Lookup](https://github.com/aboutfaris/Coding-Projects/tree/main/01-whois-lookup)
 - [Password Application Suite](https://github.com/aboutfaris/Coding-Projects/tree/main/02-password-application-suite)
 - [Python 100 Days of Code](https://github.com/aboutfaris/Coding-Projects/tree/main/03-python-100-days-of-code)
-- MVP: Full Stack Development MDM Solution [Reach out]
-
-</details>
-
-<details>
-<summary><b>🎓 Education Set</b></summary>
-
-[Education-Set](https://github.com/aboutfaris/Education-Set)
-
-- [CISSP](https://github.com/aboutfaris/Education-Set/tree/main/01-cissp)
 
 </details>
