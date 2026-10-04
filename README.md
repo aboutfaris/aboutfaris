@@ -14,6 +14,22 @@
 
 ---
 
+## 🏅 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/f5ac3874-8fb2-4313-875e-a1f9c8c9a882/public_url"><img alt="ISO/IEC 27001:2022 Lead Auditor" title="ISO/IEC 27001:2022 Lead Auditor" width="80" src="https://images.credly.com/size/110x110/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/blob" /></a>
+  <a href="https://www.credly.com/badges/3a2ab55f-73bf-479d-9de8-6f5b7c3b06c5/public_url"><img alt="ISO/IEC 27701:2025 Lead Auditor" title="ISO/IEC 27701:2025 Lead Auditor" width="80" src="https://images.credly.com/images/730bda7d-a561-4213-94dc-8dcaa0f83aa4/blob" /></a>
+  <a href="https://www.credly.com/badges/0622c3fe-3705-4f19-a672-f4af1b546c77/public_url"><img alt="ISO/IEC 42001:2023 Lead Auditor" title="ISO/IEC 42001:2023 Lead Auditor" width="80" src="https://images.credly.com/size/110x110/images/a2684117-2e56-45f9-b736-2adbbe187a60/blob" /></a>
+  <a href="https://www.credly.com/badges/5545d48a-2496-43da-b92c-da28003d2e75/public_url"><img alt="Fellow of Management Systems Auditing" title="Fellow of Management Systems Auditing" width="80" src="https://images.credly.com/size/110x110/images/079283d7-13df-435f-bc11-4fa4045a08b3/blob" /></a>
+  <a href="https://www.credly.com/badges/0beec888-774b-4968-8488-517554aaf4f9/public_url"><img alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" width="80" src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" /></a>
+  <a href="https://www.credly.com/badges/fffaf231-6b03-4aa7-9272-72616dd0298d/public_url"><img alt="CompTIA SecurityX" title="CompTIA SecurityX" width="80" src="https://images.credly.com/images/5343b652-c9a0-418e-bfaf-7ed5a2ddd0c4/blob" /></a>
+  <a href="https://www.credly.com/badges/88605d58-bd09-45c7-9a13-c3b78c64e1bb/public_url"><img alt="CompTIA CySA+" title="CompTIA CySA+" width="80" src="https://images.credly.com/size/110x110/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" /></a>
+  <a href="https://www.credly.com/badges/66943e15-87a3-48f2-9169-035919d95012/public_url"><img alt="CompTIA PenTest+" title="CompTIA PenTest+" width="80" src="https://images.credly.com/size/110x110/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" /></a>
+  <a href="https://www.credly.com/badges/4cf4b2db-a411-4f45-8e4a-df9d78ecc1f7/public_url"><img alt="CompTIA Security+" title="CompTIA Security+" width="80" src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" /></a>
+</p>
+
+---
+
 ## 🧰 Languages & Tools
 
 **Languages, ranked by how often they show up across my projects**
