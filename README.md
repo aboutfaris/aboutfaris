@@ -1,6 +1,6 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-- ☁ CL/CI/CD Lifestyle (Continuous Learning, Intergration, Delivery)
+- ☁ CL/CI/CD Lifestyle (Continuous Learning, Integration, Delivery)
 
 - 🗃 Building Resilient, Available, and Secure Infrastructure.
 
@@ -8,82 +8,90 @@
 
 - 📖 “Determine that today you will overcome your self of the day before, tomorrow you will win over those of lesser skill, and later you will win over those of greater skill.” ― Miyamoto Musashi
 
-
-
-Click "Details" Below For List Of Projects By Field.
-
 ---
 
-<h1> Major Projects:</h1>
+## Projects
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
-CLICK DETAILS TO VIEW PROJECTS
-<details close>
 
-</summary>
+Each set below is a repo of follow-along guides. Click a set to expand it.
 
----
+<details>
+<summary><b>🔐 Cybersecurity Set</b></summary>
 
-<h2> 💻 Coding Projects:</h2>
+[Cybersecurity-Projects](https://github.com/aboutfaris/Cybersecurity-Projects)
 
-- MVP: Full Stack Development MDM Solution [Reach out] 
+- [Summary of Cloud SOC Project](https://github.com/aboutfaris/Cybersecurity-Projects/tree/main/01-cloud-soc-project-summary)
+- [Cloud SOC Pre-requisites](https://github.com/aboutfaris/Cybersecurity-Projects/tree/main/02-cloud-soc-prerequisites)
+- [Logging and Monitoring](https://github.com/aboutfaris/Cybersecurity-Projects/tree/main/03-logging-and-monitoring)
+- [Microsoft Sentinel SIEM](https://github.com/aboutfaris/Cybersecurity-Projects/tree/main/04-microsoft-sentinel-siem)
+- [Secure Cloud Configuration](https://github.com/aboutfaris/Cybersecurity-Projects/tree/main/05-secure-cloud-configuration)
+- [Vulnerability Management](https://github.com/aboutfaris/Cybersecurity-Projects/tree/main/06-vulnerability-management)
+- [IR Playbooks](https://github.com/aboutfaris/Cybersecurity-Projects/tree/main/07-ir-playbooks)
 
-<details close>
+</details>
 
-<div>
+<details>
+<summary><b>☁️ Cloud DevOps Set</b></summary>
 
-</summary>
+[Cloud-DevOps-Projects](https://github.com/aboutfaris/Cloud-DevOps-Projects)
 
-<h2> ☁️ Cloud DevOps Projects:</h2>
+- [Native Cloud Monitoring Application with Docker, Kubernetes, AWS](https://github.com/aboutfaris/Cloud-DevOps-Projects/tree/main/01-native-cloud-monitoring-app-docker-kubernetes-aws)
+- [Deploy Infrastructure and Assets to Azure using Terraform](https://github.com/aboutfaris/Cloud-DevOps-Projects/tree/main/02-deploy-infrastructure-to-azure-with-terraform)
 
-- [Native Cloud Monitoring Application with Docker, Kubernetes, AWS](https://github.com/FarisDou/AWS-K8S-Docker-Flask-Cloud-App)
-- [Deploy Infrastructure and Assets to Azure using Terraform](https://github.com/FarisDou/Deploy-Infrastructure-to-Azure-with-Terraform)
+</details>
 
-<details close>
+<details>
+<summary><b>🪟 Microsoft Azure Set</b></summary>
 
-<h2> 🔐Cybersecurity Projects:</h2>
+[Microsoft-Azure-Projects](https://github.com/aboutfaris/Microsoft-Azure-Projects)
 
-<div>
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/01-active-directory-in-azure-vms)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/02-nsgs-and-network-protocols)
+- [Network File Shares and Permissions](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/03-network-file-shares-and-permissions)
+- [Building Intuition for DNS](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/04-building-intuition-for-dns)
 
-</summary>
+</details>
 
-- [Summary of Cloud SOC Project](https://github.com/farisdou/Cloud-SOC-Project-Directory)
-- [Cloud SOC Pre-requisites](https://github.com/farisdou/Cloud-SOC-PreReq)
-- [Logging and Monitoring](https://github.com/farisdou/Logging-and-Monitoring)
-- [Microsoft Sentinel SIEM](https://github.com/farisdou/Microsoft-Sentinel-SIEM-)
-- [Secure Cloud Configuration](https://github.com/farisdou/Secure-Cloud-Configuration)
-- [Vulnerability Management](https://github.com/FarisDou/Vulnerability-Management)
+<details>
+<summary><b>🎫 Help Desk Set: osTicket (Help Desk Ticketing Systems)</b></summary>
 
----
+[Help-Desk-Projects](https://github.com/aboutfaris/Help-Desk-Projects)
 
-<details close>
+- [osTicket: Prerequisites and Installation](https://github.com/aboutfaris/Help-Desk-Projects/tree/main/01-osticket-prerequisites-and-installation)
+- [osTicket: Post-Installation Configuration](https://github.com/aboutfaris/Help-Desk-Projects/tree/main/02-osticket-post-installation-configuration)
+- [osTicket: Ticket Lifecycle Examples](https://github.com/aboutfaris/Help-Desk-Projects/tree/main/03-osticket-ticket-lifecycle-examples)
 
-<h2> 💻Data Projects:</h2>
+</details>
 
-<div>
+<details>
+<summary><b>📊 Data Science Set</b></summary>
 
-</summary>
-  
-  - [Creating & Processing Data Pipeline](https://github.com/farisdou/Building-Pipelines)
-  - [Data Science Collection](https://github.com/farisdouData-Science-Collection)
-  - [SpaceX Falcon-9](https://github.com/farisdou/Space-X-Falcon-9)
-  
----
-<details close>
+[Data-Science-Projects](https://github.com/aboutfaris/Data-Science-Projects)
 
-<h2>👨‍💻 SysAdmin Projects:</h2>
+- [Creating & Processing Data Pipeline](https://github.com/aboutfaris/Data-Science-Projects/tree/main/01-creating-and-processing-data-pipeline)
+- [Data Science Collection](https://github.com/aboutfaris/Data-Science-Projects/tree/main/02-data-science-collection)
+- [SpaceX Falcon-9](https://github.com/aboutfaris/Data-Science-Projects/tree/main/03-spacex-falcon-9)
 
-<div>
+</details>
 
-</summary>
+<details>
+<summary><b>💻 Coding Set</b></summary>
 
-- <b>osTicket (Help Desk Ticketing Systems)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/farisdou/osticket_prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/farisdou/osTicket---Post-Install-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/farisdou/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
+[Coding-Projects](https://github.com/aboutfaris/Coding-Projects)
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/farisdou/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/farisdou/-azure-network-protocols)
-  - [Network File Shares and Permissions](https://github.com/farisdou/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS](https://github.com/farisdou/Building-Intuition-for-DNS)
+- [WhoIs Lookup](https://github.com/aboutfaris/Coding-Projects/tree/main/01-whois-lookup)
+- [Password Application Suite](https://github.com/aboutfaris/Coding-Projects/tree/main/02-password-application-suite)
+- [Python 100 Days of Code](https://github.com/aboutfaris/Coding-Projects/tree/main/03-python-100-days-of-code)
+- MVP: Full Stack Development MDM Solution [Reach out]
+
+</details>
+
+<details>
+<summary><b>🎓 Education Set</b></summary>
+
+[Education-Set](https://github.com/aboutfaris/Education-Set)
+
+- [CISSP](https://github.com/aboutfaris/Education-Set/tree/main/01-cissp)
+
+</details>
