@@ -31,7 +31,6 @@
   <img alt="Python, PowerShell, Bash, Terraform, Docker, Kubernetes, AWS, Azure, MySQL, Linux, Git, GitHub" src="https://skillicons.dev/icons?i=python,powershell,bash,terraform,docker,kubernetes,aws,azure,mysql,linux,git,github&perline=12" />
 </p>
 
-<img alt="Top languages by code size in public repos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboutfaris&layout=compact&hide=jupyter%20notebook&langs_count=6&hide_border=true" />
 
 ---
 
