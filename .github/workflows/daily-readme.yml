@@ -1,0 +1,33 @@
+name: Daily README touch
+on:
+  schedule:
+    - cron: "23 15 * * *" # daily, 15:23 UTC (11:23 ET / 10:23 during EST)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  touch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4.2.2
+
+      # Toggles one hidden line at the end of README.md: added one day, removed the next.
+      # It is an HTML comment, so nothing changes on the rendered profile.
+      - name: Toggle hidden dash
+        run: |
+          MARK='<!-- - -->'
+          if [ "$(tail -n 1 README.md)" = "$MARK" ]; then
+            sed -i '$ d' README.md
+          else
+            printf '%s\n' "$MARK" >> README.md
+          fi
+
+      # Authored with the account's noreply email so the commit counts on the contribution graph.
+      - name: Commit and push
+        run: |
+          git config user.name "aboutfaris"
+          git config user.email "109401839+aboutfaris@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README"
+          git push
