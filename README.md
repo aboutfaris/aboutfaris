@@ -100,15 +100,4 @@ Each set below is a repo of follow-along guides. Click a set to expand it.
 - [SpaceX Falcon-9](https://github.com/aboutfaris/Data-Science-Projects/tree/main/03-spacex-falcon-9)
 
 </details>
-
-<details>
-<summary><b>💻 Coding Set</b></summary>
-
-[Coding-Projects](https://github.com/aboutfaris/Coding-Projects)
-
-- [WhoIs Lookup](https://github.com/aboutfaris/Coding-Projects/tree/main/01-whois-lookup)
-- [Password Application Suite](https://github.com/aboutfaris/Coding-Projects/tree/main/02-password-application-suite)
-- [Python 100 Days of Code](https://github.com/aboutfaris/Coding-Projects/tree/main/03-python-100-days-of-code)
-
-</details>
 <!-- - -->
