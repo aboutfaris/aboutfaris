@@ -30,28 +30,6 @@
 
 ---
 
-## 🧰 Languages & Tools
-
-**Languages, ranked by how often they show up across my projects**
-
-<p>
-  <img alt="#1 Python" src="https://img.shields.io/badge/%231-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="#2 PowerShell" src="https://img.shields.io/badge/%232-PowerShell-5391FE?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDVsOCA3LTggNy0xLjUtMS41TDggMTIgMS41IDYuNXpNMTEgMTdoMTF2MkgxMXoiLz48L3N2Zz4=" />
-  <img alt="#3 SQL" src="https://img.shields.io/badge/%233-SQL-336791?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzcgMiAzIDMuNiAzIDUuNXYxM0MzIDIwLjQgNyAyMiAxMiAyMnM5LTEuNiA5LTMuNXYtMTNDMjEgMy42IDE3IDIgMTIgMnptMCAyYzQuNCAwIDcgMS4zIDcgMS41UzE2LjQgNyAxMiA3IDUgNS43IDUgNS41IDcuNiA0IDEyIDR6TTUgOC4yQzYuNiA4LjkgOS4xIDkuMyAxMiA5LjNzNS40LS40IDctMS4xVjEyYzAgLjItMi42IDEuNS03IDEuNVM1IDEyLjIgNSAxMnptMCA2LjVjMS42LjcgNC4xIDEuMSA3IDEuMXM1LjQtLjQgNy0xLjF2My44YzAgLjItMi42IDEuNS03IDEuNXMtNy0xLjMtNy0xLjV6Ii8+PC9zdmc+" />
-  <img alt="#4 KQL" src="https://img.shields.io/badge/%234-KQL-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCAyYTggOCAwIDAxNi4zIDEyLjlsNS40IDUuNC0xLjQgMS40LTUuNC01LjRBOCA4IDAgMTExMCAyem0wIDJhNiA2IDAgMTAwIDEyIDYgNiAwIDAwMC0xMnpNNiA5aDh2Mkg2em0wIDNoNXYySDZ6Ii8+PC9zdmc+" />
-  <img alt="#5 Bash" src="https://img.shields.io/badge/%235-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img alt="#6 Terraform" src="https://img.shields.io/badge/%236-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-
-**Tools & platforms**
-
-<p>
-  <img alt="Python, PowerShell, Bash, Terraform, Docker, Kubernetes, AWS, Azure, MySQL, Linux, Git, GitHub" src="https://skillicons.dev/icons?i=python,powershell,bash,terraform,docker,kubernetes,aws,azure,mysql,linux,git,github&perline=12" />
-</p>
-
-
----
-
 ## Projects
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
@@ -116,4 +94,25 @@ Each set below is a repo of follow-along guides. Click a set to expand it.
 - [SpaceX Falcon-9](https://github.com/aboutfaris/Data-Science-Projects/tree/main/03-spacex-falcon-9)
 
 </details>
+
+---
+
+## 🧰 Languages & Tools
+
+**Languages, ranked by how often they show up across my projects**
+
+<p>
+  <img alt="#1 Python" src="https://img.shields.io/badge/%231-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="#2 PowerShell" src="https://img.shields.io/badge/%232-PowerShell-5391FE?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDVsOCA3LTggNy0xLjUtMS41TDggMTIgMS41IDYuNXpNMTEgMTdoMTF2MkgxMXoiLz48L3N2Zz4=" />
+  <img alt="#3 SQL" src="https://img.shields.io/badge/%233-SQL-336791?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzcgMiAzIDMuNiAzIDUuNXYxM0MzIDIwLjQgNyAyMiAxMiAyMnM5LTEuNiA5LTMuNXYtMTNDMjEgMy42IDE3IDIgMTIgMnptMCAyYzQuNCAwIDcgMS4zIDcgMS41UzE2LjQgNyAxMiA3IDUgNS43IDUgNS41IDcuNiA0IDEyIDR6TTUgOC4yQzYuNiA4LjkgOS4xIDkuMyAxMiA5LjNzNS40LS40IDctMS4xVjEyYzAgLjItMi42IDEuNS03IDEuNVM1IDEyLjIgNSAxMnptMCA2LjVjMS42LjcgNC4xIDEuMSA3IDEuMXM1LjQtLjQgNy0xLjF2My44YzAgLjItMi42IDEuNS03IDEuNXMtNy0xLjMtNy0xLjV6Ii8+PC9zdmc+" />
+  <img alt="#4 KQL" src="https://img.shields.io/badge/%234-KQL-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCAyYTggOCAwIDAxNi4zIDEyLjlsNS40IDUuNC0xLjQgMS40LTUuNC01LjRBOCA4IDAgMTExMCAyem0wIDJhNiA2IDAgMTAwIDEyIDYgNiAwIDAwMC0xMnpNNiA5aDh2Mkg2em0wIDNoNXYySDZ6Ii8+PC9zdmc+" />
+  <img alt="#5 Bash" src="https://img.shields.io/badge/%235-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img alt="#6 Terraform" src="https://img.shields.io/badge/%236-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+**Tools & platforms**
+
+<p>
+  <img alt="Python, PowerShell, Bash, Terraform, Docker, Kubernetes, AWS, Azure, MySQL, Linux, Git, GitHub" src="https://skillicons.dev/icons?i=python,powershell,bash,terraform,docker,kubernetes,aws,azure,mysql,linux,git,github&perline=12" />
+</p>
 <!-- - -->
