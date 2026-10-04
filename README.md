@@ -115,4 +115,8 @@ Each set below is a repo of follow-along guides. Click a set to expand it.
 <p>
   <img alt="Python, PowerShell, Bash, Terraform, Docker, Kubernetes, AWS, Azure, MySQL, Linux, Git, GitHub" src="https://skillicons.dev/icons?i=python,powershell,bash,terraform,docker,kubernetes,aws,azure,mysql,linux,git,github&perline=12" />
 </p>
+
+---
+
+<sub>© 2026 aboutfaris. All rights reserved.</sub>
 <!-- - -->
