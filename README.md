@@ -74,7 +74,7 @@ Each set below is a repo of follow-along guides. Click a set to expand it.
 </details>
 
 <details>
-<summary><b>🎫 Help Desk Set: osTicket (Help Desk Ticketing Systems)</b></summary>
+<summary><b>🎫 InfoTech Set</b></summary>
 
 [Help-Desk-Projects](https://github.com/aboutfaris/Help-Desk-Projects)
 
