@@ -2,6 +2,10 @@
 
 <a href="https://www.linkedin.com/in/aboutfaris"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODYgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNlY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMTEwLTQuMTIgMi4wNiAyLjA2IDAgMDEwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" /></a>
 
+**Cloud Security Engineer** working across SOC operations, detection engineering, GRC, and AI/ML. M.S. in Cybersecurity & Information Assurance, ISO/IEC 27001 Lead Auditor, CompTIA SecurityX. The sets below are hands-on, follow-along labs: build and harden a cloud SOC in Azure, run help desk and Active Directory labs, and ship containers and infrastructure as code on AWS and Azure.
+
+[Medium](https://medium.com/@aboutfaris) · [Credly](https://www.credly.com/users/aboutfaris)
+
 - ☁ CL/CI/CD Lifestyle (Continuous Learning, Integration, Delivery)
 
 - 🗃 Building Resilient, Available, and Secure Infrastructure.
