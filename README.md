@@ -13,9 +13,6 @@ cybersecurity monitoring, incident response, and compliance. Problem-solving,
 precision, and client focus, strengthening frontline defenses while enabling
 resilient, uninterrupted business operations.
 
-M.S. Cybersecurity & Information Assurance. ISO/IEC 27001, 27701, and 42001 Lead
-Auditor. CompTIA SecurityX. AWS Certified AI Practitioner.
-
 ^C
 
 faris@github:~$
