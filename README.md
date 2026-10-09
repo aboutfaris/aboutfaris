@@ -52,7 +52,7 @@ Each set below is a repo of follow-along guides. Click a set to expand it.
 </details>
 
 <details>
-<summary><b>⚖️ GRC Set</b></summary>
+<summary><b>⚖️ Governance, Risk, Compliance Set</b></summary>
 
 [GRC-Projects](https://github.com/aboutfaris/GRC-Projects)
 
