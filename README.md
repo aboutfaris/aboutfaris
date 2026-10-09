@@ -52,6 +52,27 @@ Each set below is a repo of follow-along guides. Click a set to expand it.
 </details>
 
 <details>
+<summary><b>⚖️ GRC Set</b></summary>
+
+[GRC-Projects](https://github.com/aboutfaris/GRC-Projects)
+
+- [GRC-as-Code Platform](https://github.com/aboutfaris/GRC-Projects/tree/main/01-grc-as-code-platform)
+- [Third-Party and Vendor Risk Management](https://github.com/aboutfaris/GRC-Projects/tree/main/02-tprm-vrm)
+- [Privacy Operations](https://github.com/aboutfaris/GRC-Projects/tree/main/03-privacy)
+- [340 Collective Gap Analysis](https://github.com/aboutfaris/GRC-Projects/tree/main/04-gap-analysis-340collective)
+- [340 Collective Policy Management](https://github.com/aboutfaris/GRC-Projects/tree/main/05-policies-340collective)
+- [Audit Evidence Automation](https://github.com/aboutfaris/GRC-Projects/tree/main/06-evidence-automation)
+- [Risk Register](https://github.com/aboutfaris/GRC-Projects/tree/main/07-risk-register)
+- [User Access Reviews](https://github.com/aboutfaris/GRC-Projects/tree/main/08-access-reviews)
+- [Control Testing and Assessment](https://github.com/aboutfaris/GRC-Projects/tree/main/09-control-testing-assessment)
+- [Audit Engagement Manager](https://github.com/aboutfaris/GRC-Projects/tree/main/10-audit-engagement-manager)
+- [Compliance-as-Code Guardrails](https://github.com/aboutfaris/GRC-Projects/tree/main/11-compliance-as-code-guardrails)
+- [GRC Metrics and Board Reporting](https://github.com/aboutfaris/GRC-Projects/tree/main/12-grc-metrics-reporting)
+- [BC/DR and Incident Response Compliance](https://github.com/aboutfaris/GRC-Projects/tree/main/13-bcdr-ir-compliance)
+
+</details>
+
+<details>
 <summary><b>☁️ Cloud DevOps Set</b></summary>
 
 [Cloud-DevOps-Projects](https://github.com/aboutfaris/Cloud-DevOps-Projects)
