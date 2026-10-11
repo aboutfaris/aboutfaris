@@ -87,19 +87,20 @@ Each set below is a repo of hands-on projects and reference architectures. Click
 </details>
 
 <details>
-<summary><b>☁️ Cloud DevOps Set</b></summary>
+<summary><b>☁️ Cloud Set</b></summary>
 
-[Cloud-DevOps-Projects](https://github.com/aboutfaris/Cloud-DevOps-Projects)
+[Cloud-Projects](https://github.com/aboutfaris/Cloud-DevOps-Projects)
 
+- [Real Business Use-case: AWS Solution Architecture](https://github.com/aboutfaris/340collective-website)
 - [Native Cloud Monitoring Application with Docker, Kubernetes, AWS](https://github.com/aboutfaris/Cloud-DevOps-Projects/tree/main/01-native-cloud-monitoring-app-docker-kubernetes-aws)
 - [Deploy Infrastructure and Assets to Azure using Terraform](https://github.com/aboutfaris/Cloud-DevOps-Projects/tree/main/02-deploy-infrastructure-to-azure-with-terraform)
 
 </details>
 
 <details>
-<summary><b>🪟 Microsoft Azure Set</b></summary>
+<summary><b>🪟 Hybrid Cloud (Azure) </b></summary>
 
-[Microsoft-Azure-Projects](https://github.com/aboutfaris/Microsoft-Azure-Projects)
+[Hybrid-Cloud-Projects](https://github.com/aboutfaris/Microsoft-Azure-Projects)
 
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/01-active-directory-in-azure-vms)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/02-nsgs-and-network-protocols)
@@ -109,7 +110,7 @@ Each set below is a repo of hands-on projects and reference architectures. Click
 </details>
 
 <details>
-<summary><b>📊 Data Science Set</b></summary>
+<summary><b>📊 Data & Code Set</b></summary>
 
 [Data-Science-Projects](https://github.com/aboutfaris/Data-Science-Projects)
 
@@ -120,9 +121,9 @@ Each set below is a repo of hands-on projects and reference architectures. Click
 </details>
 
 <details>
-<summary><b>🎫 InfoTech Set</b></summary>
+<summary><b>🎫 Service Desk Set</b></summary>
 
-[InfoTech-Projects](https://github.com/aboutfaris/InfoTech-Projects)
+[Service-Desk-Projects](https://github.com/aboutfaris/InfoTech-Projects)
 
 - [Remote Worker Network Segementation](https://github.com/aboutfaris/InfoTech-Projects/tree/main/04-remote-worker-network)
 - [osTicket: Prerequisites and Installation](https://github.com/aboutfaris/InfoTech-Projects/tree/main/01-osticket-prerequisites-and-installation)
