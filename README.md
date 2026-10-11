@@ -124,6 +124,7 @@ Each set below is a repo of hands-on projects and reference architectures. Click
 
 [InfoTech-Projects](https://github.com/aboutfaris/InfoTech-Projects)
 
+- [Remote Worker Network Segementation](https://github.com/aboutfaris/InfoTech-Projects/tree/main/04-remote-worker-network)
 - [osTicket: Prerequisites and Installation](https://github.com/aboutfaris/InfoTech-Projects/tree/main/01-osticket-prerequisites-and-installation)
 - [osTicket: Post-Installation Configuration](https://github.com/aboutfaris/InfoTech-Projects/tree/main/02-osticket-post-installation-configuration)
 - [osTicket: Ticket Lifecycle Examples](https://github.com/aboutfaris/InfoTech-Projects/tree/main/03-osticket-ticket-lifecycle-examples)
