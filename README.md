@@ -28,86 +28,6 @@ faris@github:~$
 
 ---
 
-## 🧰 Skills
-
-### GRC & Frameworks
-
-![SOC 2](https://img.shields.io/badge/SOC%202-Trust%20Services%20Criteria-065F46?style=flat-square)
-![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-ISMS-0C4A6E?style=flat-square)
-![ISO/IEC 27701](https://img.shields.io/badge/ISO%2FIEC%2027701-Privacy-0C4A6E?style=flat-square)
-![NIST CSF and 800-53](https://img.shields.io/badge/NIST-CSF%20%7C%20800--53-1E3A8A?style=flat-square)
-![HIPAA](https://img.shields.io/badge/HIPAA-Security%20Rule-0C4A6E?style=flat-square)
-![PCI DSS](https://img.shields.io/badge/PCI%20DSS-Controls-7F1D1D?style=flat-square)
-![GDPR and CCPA](https://img.shields.io/badge/Privacy-GDPR%20%7C%20CCPA-4C1D95?style=flat-square)
-
-### GRC Engineering
-
-![Risk Register](https://img.shields.io/badge/Risk-Register-111827?style=flat-square)
-![User Access Reviews](https://img.shields.io/badge/User%20Access-Reviews-1F2937?style=flat-square)
-![Control Testing](https://img.shields.io/badge/Control-Testing-111827?style=flat-square)
-![Audit Evidence Automation](https://img.shields.io/badge/Audit%20Evidence-Automation-1F2937?style=flat-square)
-![Vendor Risk Management](https://img.shields.io/badge/Vendor%20Risk-TPRM-111827?style=flat-square)
-![Policy as Code with OPA and Rego](https://img.shields.io/badge/Policy%20as%20Code-OPA%20%7C%20Rego-1F2937?style=flat-square)
-![Internal Audit](https://img.shields.io/badge/Internal%20Audit-Lead%20Auditor-111827?style=flat-square)
-![Continuous Monitoring](https://img.shields.io/badge/Continuous-Monitoring-1F2937?style=flat-square)
-![BC/DR Resilience Testing](https://img.shields.io/badge/BC%2FDR-Resilience%20Testing-111827?style=flat-square)
-![GRC Metrics, KRIs and KPIs](https://img.shields.io/badge/GRC%20Metrics-KRIs%20%7C%20KPIs-1F2937?style=flat-square)
-
-### Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square)
-![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square)
-![Amazon API Gateway](https://img.shields.io/badge/AWS-API%20Gateway-FF9900?style=flat-square)
-![Amazon DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square)
-![Amazon EventBridge](https://img.shields.io/badge/AWS-EventBridge-FF9900?style=flat-square)
-![AWS Step Functions](https://img.shields.io/badge/AWS-Step%20Functions-FF9900?style=flat-square)
-![Amazon S3](https://img.shields.io/badge/AWS-S3-FF9900?style=flat-square)
-![Amazon CloudFront](https://img.shields.io/badge/AWS-CloudFront-FF9900?style=flat-square)
-![Amazon SES](https://img.shields.io/badge/AWS-SES-FF9900?style=flat-square)
-![AWS IAM](https://img.shields.io/badge/AWS-IAM-FF9900?style=flat-square)
-![AWS KMS](https://img.shields.io/badge/AWS-KMS-FF9900?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Security Tooling & Operations
-
-![AWS Security Hub](https://img.shields.io/badge/AWS-Security%20Hub-DD344C?style=flat-square)
-![Amazon GuardDuty](https://img.shields.io/badge/AWS-GuardDuty-DD344C?style=flat-square)
-![Amazon Inspector](https://img.shields.io/badge/AWS-Inspector-DD344C?style=flat-square)
-![AWS Config](https://img.shields.io/badge/AWS-Config-DD344C?style=flat-square)
-![AWS Audit Manager](https://img.shields.io/badge/AWS-Audit%20Manager-DD344C?style=flat-square)
-![AWS CloudTrail](https://img.shields.io/badge/AWS-CloudTrail-DD344C?style=flat-square)
-![Amazon Macie](https://img.shields.io/badge/AWS-Macie-DD344C?style=flat-square)
-![Microsoft Sentinel SIEM](https://img.shields.io/badge/Microsoft%20Sentinel-SIEM-0078D4?style=flat-square)
-![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Management-7F1D1D?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident-Response-7F1D1D?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-### Languages & Automation
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDVsOCA3LTggNy0xLjUtMS41TDggMTIgMS41IDYuNXpNMTEgMTdoMTF2MkgxMXoiLz48L3N2Zz4=)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzcgMiAzIDMuNiAzIDUuNXYxM0MzIDIwLjQgNyAyMiAxMiAyMnM5LTEuNiA5LTMuNXYtMTNDMjEgMy42IDE3IDIgMTIgMnptMCAyYzQuNCAwIDcgMS4zIDcgMS41UzE2LjQgNyAxMiA3IDUgNS43IDUgNS41IDcuNiA0IDEyIDR6TTUgOC4yQzYuNiA4LjkgOS4xIDkuMyAxMiA5LjNzNS40LS40IDctMS4xVjEyYzAgLjItMi42IDEuNS03IDEuNVM1IDEyLjIgNSAxMnptMCA2LjVjMS42LjcgNC4xIDEuMSA3IDEuMXM1LjQtLjQgNy0xLjF2My44YzAgLjItMi42IDEuNS03IDEuNXMtNy0xLjMtNy0xLjV6Ii8+PC9zdmc+)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCAyYTggOCAwIDAxNi4zIDEyLjlsNS40IDUuNC0xLjQgMS40LTUuNC01LjRBOCA4IDAgMTExMCAyem0wIDJhNiA2IDAgMTAwIDEyIDYgNiAwIDAwMC0xMnpNNiA5aDh2Mkg2em0wIDNoNXYySDZ6Ii8+PC9zdmc+)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### AI Systems
-
-![ISO/IEC 42001 AI Management](https://img.shields.io/badge/ISO%2FIEC%2042001-AI%20Management-111827?style=flat-square)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon-Bedrock-1F2937?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-
----
-
 ## 🏅 Certifications
 
 <p>
@@ -211,6 +131,86 @@ Each set below is a repo of hands-on projects and reference architectures. Click
 - [osTicket: Ticket Lifecycle Examples](https://github.com/aboutfaris/InfoTech-Projects/tree/main/03-osticket-ticket-lifecycle-examples)
 
 </details>
+
+---
+
+## 🧰 Skills
+
+### GRC & Frameworks
+
+![SOC 2](https://img.shields.io/badge/SOC%202-Trust%20Services%20Criteria-065F46?style=flat-square)
+![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-ISMS-0C4A6E?style=flat-square)
+![ISO/IEC 27701](https://img.shields.io/badge/ISO%2FIEC%2027701-Privacy-0C4A6E?style=flat-square)
+![NIST CSF and 800-53](https://img.shields.io/badge/NIST-CSF%20%7C%20800--53-1E3A8A?style=flat-square)
+![HIPAA](https://img.shields.io/badge/HIPAA-Security%20Rule-0C4A6E?style=flat-square)
+![PCI DSS](https://img.shields.io/badge/PCI%20DSS-Controls-7F1D1D?style=flat-square)
+![GDPR and CCPA](https://img.shields.io/badge/Privacy-GDPR%20%7C%20CCPA-4C1D95?style=flat-square)
+
+### GRC Engineering
+
+![Risk Register](https://img.shields.io/badge/Risk-Register-111827?style=flat-square)
+![User Access Reviews](https://img.shields.io/badge/User%20Access-Reviews-1F2937?style=flat-square)
+![Control Testing](https://img.shields.io/badge/Control-Testing-111827?style=flat-square)
+![Audit Evidence Automation](https://img.shields.io/badge/Audit%20Evidence-Automation-1F2937?style=flat-square)
+![Vendor Risk Management](https://img.shields.io/badge/Vendor%20Risk-TPRM-111827?style=flat-square)
+![Policy as Code with OPA and Rego](https://img.shields.io/badge/Policy%20as%20Code-OPA%20%7C%20Rego-1F2937?style=flat-square)
+![Internal Audit](https://img.shields.io/badge/Internal%20Audit-Lead%20Auditor-111827?style=flat-square)
+![Continuous Monitoring](https://img.shields.io/badge/Continuous-Monitoring-1F2937?style=flat-square)
+![BC/DR Resilience Testing](https://img.shields.io/badge/BC%2FDR-Resilience%20Testing-111827?style=flat-square)
+![GRC Metrics, KRIs and KPIs](https://img.shields.io/badge/GRC%20Metrics-KRIs%20%7C%20KPIs-1F2937?style=flat-square)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square)
+![Amazon API Gateway](https://img.shields.io/badge/AWS-API%20Gateway-FF9900?style=flat-square)
+![Amazon DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square)
+![Amazon EventBridge](https://img.shields.io/badge/AWS-EventBridge-FF9900?style=flat-square)
+![AWS Step Functions](https://img.shields.io/badge/AWS-Step%20Functions-FF9900?style=flat-square)
+![Amazon S3](https://img.shields.io/badge/AWS-S3-FF9900?style=flat-square)
+![Amazon CloudFront](https://img.shields.io/badge/AWS-CloudFront-FF9900?style=flat-square)
+![Amazon SES](https://img.shields.io/badge/AWS-SES-FF9900?style=flat-square)
+![AWS IAM](https://img.shields.io/badge/AWS-IAM-FF9900?style=flat-square)
+![AWS KMS](https://img.shields.io/badge/AWS-KMS-FF9900?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Security Tooling & Operations
+
+![AWS Security Hub](https://img.shields.io/badge/AWS-Security%20Hub-DD344C?style=flat-square)
+![Amazon GuardDuty](https://img.shields.io/badge/AWS-GuardDuty-DD344C?style=flat-square)
+![Amazon Inspector](https://img.shields.io/badge/AWS-Inspector-DD344C?style=flat-square)
+![AWS Config](https://img.shields.io/badge/AWS-Config-DD344C?style=flat-square)
+![AWS Audit Manager](https://img.shields.io/badge/AWS-Audit%20Manager-DD344C?style=flat-square)
+![AWS CloudTrail](https://img.shields.io/badge/AWS-CloudTrail-DD344C?style=flat-square)
+![Amazon Macie](https://img.shields.io/badge/AWS-Macie-DD344C?style=flat-square)
+![Microsoft Sentinel SIEM](https://img.shields.io/badge/Microsoft%20Sentinel-SIEM-0078D4?style=flat-square)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Management-7F1D1D?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident-Response-7F1D1D?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+### Languages & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDVsOCA3LTggNy0xLjUtMS41TDggMTIgMS41IDYuNXpNMTEgMTdoMTF2MkgxMXoiLz48L3N2Zz4=)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzcgMiAzIDMuNiAzIDUuNXYxM0MzIDIwLjQgNyAyMiAxMiAyMnM5LTEuNiA5LTMuNXYtMTNDMjEgMy42IDE3IDIgMTIgMnptMCAyYzQuNCAwIDcgMS4zIDcgMS41UzE2LjQgNyAxMiA3IDUgNS43IDUgNS41IDcuNiA0IDEyIDR6TTUgOC4yQzYuNiA4LjkgOS4xIDkuMyAxMiA5LjNzNS40LS40IDctMS4xVjEyYzAgLjItMi42IDEuNS03IDEuNVM1IDEyLjIgNSAxMnptMCA2LjVjMS42LjcgNC4xIDEuMSA3IDEuMXM1LjQtLjQgNy0xLjF2My44YzAgLjItMi42IDEuNS03IDEuNXMtNy0xLjMtNy0xLjV6Ii8+PC9zdmc+)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCAyYTggOCAwIDAxNi4zIDEyLjlsNS40IDUuNC0xLjQgMS40LTUuNC01LjRBOCA4IDAgMTExMCAyem0wIDJhNiA2IDAgMTAwIDEyIDYgNiAwIDAwMC0xMnpNNiA5aDh2Mkg2em0wIDNoNXYySDZ6Ii8+PC9zdmc+)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### AI Systems
+
+![ISO/IEC 42001 AI Management](https://img.shields.io/badge/ISO%2FIEC%2042001-AI%20Management-111827?style=flat-square)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon-Bedrock-1F2937?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
