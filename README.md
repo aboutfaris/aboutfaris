@@ -20,13 +20,6 @@ faris@github:~$
 
 ![Koi](https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/koi/koi.gif)
 
-- ☁ CL/CI/CD Lifestyle (Continuous Learning, Integration, Delivery)
-
-- 🗃 Building Resilient, Available, and Secure Infrastructure.
-
-- 🌍 Outside of work, school, and building projects, I am out in the world trying to make a difference.
-
-- 📖 “Determine that today you will overcome your self of the day before, tomorrow you will win over those of lesser skill, and later you will win over those of greater skill.” ― Miyamoto Musashi
 
 ---
 
