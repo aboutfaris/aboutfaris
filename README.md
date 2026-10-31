@@ -18,6 +18,8 @@ resilient, uninterrupted business operations.
 faris@github:~$
 ```
 
+![Koi](https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/koi/koi.gif)
+
 - ☁ CL/CI/CD Lifestyle (Continuous Learning, Integration, Delivery)
 
 - 🗃 Building Resilient, Available, and Secure Infrastructure.
