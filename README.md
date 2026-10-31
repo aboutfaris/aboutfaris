@@ -23,7 +23,7 @@ faris@github:~$
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 <p>
   <a href="https://www.credly.com/badges/f5ac3874-8fb2-4313-875e-a1f9c8c9a882/public_url"><img alt="ISO/IEC 27001:2022 Lead Auditor" title="ISO/IEC 27001:2022 Lead Auditor" width="80" src="https://images.credly.com/size/110x110/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/blob" /></a>
@@ -139,7 +139,6 @@ Each set below is a repo of hands-on projects and reference architectures. Click
 ![NIST CSF and 800-53](https://img.shields.io/badge/NIST-CSF%20%7C%20800--53-1E3A8A?style=flat-square)
 ![HIPAA](https://img.shields.io/badge/HIPAA-Security%20Rule-0C4A6E?style=flat-square)
 ![PCI DSS](https://img.shields.io/badge/PCI%20DSS-Controls-7F1D1D?style=flat-square)
-![GDPR and CCPA](https://img.shields.io/badge/Privacy-GDPR%20%7C%20CCPA-4C1D95?style=flat-square)
 
 ### GRC Engineering
 
@@ -161,15 +160,6 @@ Each set below is a repo of hands-on projects and reference architectures. Click
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square)
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square)
-![Amazon API Gateway](https://img.shields.io/badge/AWS-API%20Gateway-FF9900?style=flat-square)
-![Amazon DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square)
-![Amazon EventBridge](https://img.shields.io/badge/AWS-EventBridge-FF9900?style=flat-square)
-![AWS Step Functions](https://img.shields.io/badge/AWS-Step%20Functions-FF9900?style=flat-square)
-![Amazon S3](https://img.shields.io/badge/AWS-S3-FF9900?style=flat-square)
-![Amazon CloudFront](https://img.shields.io/badge/AWS-CloudFront-FF9900?style=flat-square)
-![Amazon SES](https://img.shields.io/badge/AWS-SES-FF9900?style=flat-square)
-![AWS IAM](https://img.shields.io/badge/AWS-IAM-FF9900?style=flat-square)
-![AWS KMS](https://img.shields.io/badge/AWS-KMS-FF9900?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -197,9 +187,7 @@ Each set below is a repo of hands-on projects and reference architectures. Click
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### AI Systems
 
