@@ -17,12 +17,7 @@ resilient, uninterrupted business operations.
 
 faris@github:~$
 ```
-
-![Koi](https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/koi/koi.gif)
-
-
 ---
-
 ##  Certifications
 
 <p>
@@ -36,6 +31,11 @@ faris@github:~$
   <a href="https://www.credly.com/badges/66943e15-87a3-48f2-9169-035919d95012/public_url"><img alt="CompTIA PenTest+" title="CompTIA PenTest+" width="80" src="https://images.credly.com/size/110x110/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" /></a>
   <a href="https://www.credly.com/badges/4cf4b2db-a411-4f45-8e4a-df9d78ecc1f7/public_url"><img alt="CompTIA Security+" title="CompTIA Security+" width="80" src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" /></a>
 </p>
+
+---
+
+![Koi](https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/koi/koi.gif)
+
 
 ---
 
