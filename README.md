@@ -82,25 +82,25 @@ Each set below is a repo of hands-on projects and reference architectures. Click
 </details>
 
 <details>
-<summary><b>☁️ Cloud Set</b></summary>
+<summary><b>☁️ Hybrid Cloud (AWS, Azure, GCP, IBM)</b></summary>
 
-[Cloud-Projects](https://github.com/aboutfaris/Cloud-DevOps-Projects)
+**[Cloud-Projects](https://github.com/aboutfaris/Cloud-DevOps-Projects)**
 
 - [Real Business Use-case: AWS Solution Architecture](https://github.com/aboutfaris/340collective-website)
 - [Native Cloud Monitoring Application with Docker, Kubernetes, AWS](https://github.com/aboutfaris/Cloud-DevOps-Projects/tree/main/01-native-cloud-monitoring-app-docker-kubernetes-aws)
 - [Deploy Infrastructure and Assets to Azure using Terraform](https://github.com/aboutfaris/Cloud-DevOps-Projects/tree/main/02-deploy-infrastructure-to-azure-with-terraform)
 
-</details>
-
-<details>
-<summary><b>🪟 Hybrid Cloud (Azure) </b></summary>
-
-[Hybrid-Cloud-Projects](https://github.com/aboutfaris/Microsoft-Azure-Projects)
+**[Hybrid-Cloud-Projects](https://github.com/aboutfaris/Microsoft-Azure-Projects)**
 
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/01-active-directory-in-azure-vms)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/02-nsgs-and-network-protocols)
 - [Network File Shares and Permissions](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/03-network-file-shares-and-permissions)
 - [Building Intuition for DNS](https://github.com/aboutfaris/Microsoft-Azure-Projects/tree/main/04-building-intuition-for-dns)
+
+**Planned for 2027**
+
+- Q2 2027: AI agent and MCP server on AWS
+- Q3 2027: Cloud migration and disaster recovery from AWS to GCP, with GCP as cold standby
 
 </details>
 
